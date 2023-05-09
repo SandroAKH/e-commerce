@@ -1,4 +1,4 @@
-# e-commerce showcase 
+# basic e-commerce showcase 
 ## Install server dependencies 
 
 ### `npm install`
